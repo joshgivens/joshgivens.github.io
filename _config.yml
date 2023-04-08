@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-UK"
-title                    : "Josh Givens / Academic Page"
+title                    : "Josh Givens"
 title_separator          : "-"
 name                     : &name "Josh Givens"
 description              : &description "Test"
@@ -78,7 +78,7 @@ analytics:
 author:
   name             : "Josh Givens"
   avatar           : "profile.jpg"
-  bio              : "PhD student ob the Compass CDT in Computational Statistics at the University of Bristol. My research interests include: Density Ratio Estimation, Missing Data, and Family wise error control."
+  bio              : "PhD student on the Compass CDT in Computational Statistics at the University of Bristol"
   location         : "Bristol, UK"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
