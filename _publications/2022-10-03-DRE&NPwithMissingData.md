@@ -1,5 +1,5 @@
 ---
-title: "Density Ratio Estimation and Neyman Pearson Classification with Missing Dara"
+title: "Density Ratio Estimation and Neyman Pearson Classification with Missing Data"
 collection: publications
 permalink: /publication/DRE&NPwithMissingData
 excerpt: 'This paper adapts Density Ratio Estimation techniques making them robust to missing not at random missing data before applying this to the field of Neyman Pearson classification.'
