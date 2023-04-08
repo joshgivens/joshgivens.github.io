@@ -17,10 +17,6 @@ Education
 Work experience
 ======
 * June 2018 - September 2019: Biostatistics Placement Student - Amgen
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
   
 Skills
 ======
@@ -34,8 +30,8 @@ Skills
 Achievements & Awards
 ======
 * 2021 - Received the James Duthie prize awarded to one final year student who
-    has shown outstanding ability in Statistics (£150.)
-* 2021 - Awarded excellent final year Masters project for my work on Hybrid Graphical Models.
+    has shown outstanding ability in Statistics (£100 cash prize.)
+* 2021 - One of six final year MMath students to receive a commendation for my final year project on Hybrid Graphical Models.
 * 2017 - Received the Chapman and Hall prize, awarded to one 2nd year student who
     has shown outstanding ability in Statistics (£150 book voucher.)
 
