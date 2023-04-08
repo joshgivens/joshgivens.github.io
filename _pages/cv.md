@@ -31,7 +31,7 @@ Skills
     exam score of 98%.
 
 
-Achievements \& Awards
+Achievements & Awards
 ======
 * 2021 - Received the James Duthie prize awarded to one final year student who
     has shown outstanding ability in Statistics (£150.)
