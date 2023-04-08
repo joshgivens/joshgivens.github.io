@@ -11,30 +11,35 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Mathematics with Placement (MMath) - The University of Bath, 2016-2021, 1st 
+* Ph.D in Computational Statistics, University of Bristol, 2025 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
+* June 2018 - September 2019: Biostatistics Placement Student - Amgen
   * Github University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Proficient in R
+* Proficient in Python
+* Proficient in SAS
+  * Received Received my SAS Certified Specialist: Base Programmer credential with an
+    exam score of 98%.
+
+
+Achievements \& Awards
+======
+* 2021 - Received the James Duthie prize awarded to one final year student who
+    has shown outstanding ability in Statistics (£150.)
+* 2021 - Awarded excellent final year Masters project for my work on Hybrid Graphical Models.
+* 2017 - Received the Chapman and Hall prize, awarded to one 2nd year student who
+    has shown outstanding ability in Statistics (£150 book voucher.)
+
+
 
 Publications
 ======
@@ -54,6 +59,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
