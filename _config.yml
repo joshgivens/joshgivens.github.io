@@ -9,8 +9,12 @@
 locale                   : "en-UK"
 title                    : "Josh Givens"
 title_separator          : "-"
-name                     : &name "Josh Givens"
-description              : &description "Test"
+name                     : &name "Your Name"
+description              : &description "Computational Statistics phD student"
+url                      : https://joshgivens.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
+repository               : "joshgivens/joshgivens.github.io"
+teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
