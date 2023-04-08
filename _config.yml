@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-UK"
-title                    : "Josh Givens / Site Title"
+title                    : "Josh Givens / Academic Page"
 title_separator          : "-"
 name                     : &name "Josh Givens"
 description              : &description "Test"
@@ -53,7 +53,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : #&twitter
 facebook:
   username               :
   app_id                 :
@@ -79,11 +79,11 @@ author:
   name             : "Josh Givens"
   avatar           : "profile.jpg"
   bio              : "PhD student ob the Compass CDT in Computational Statistics at the University of Bristol. My research interests include: Density Ratio Estimation, Missing Data, and Family wise error control."
-  location         : "Bristol"
+  location         : "Bristol, UK"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=mv0ieOsAAAAJ&hl=en"
-  email            :
+  email            :  "josh.givens@bristol.ac.uk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -98,14 +98,14 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/josh-givens-90597014a/""
   orcid            : "https://orcid.org/0000-0002-6343-6544"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
