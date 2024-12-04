@@ -1,0 +1,47 @@
+
+@InProceedings{givens2024densityratio,
+  title = 	 {Density Ratio Estimation and Neyman Pearson Classification with Missing Data},
+  author =       {Givens, Josh and Liu, Song and Reeve, Henry W. J.},
+  booktitle = 	 {Proceedings of The 26th International Conference on Artificial Intelligence and Statistics},
+  pages = 	 {8645--8681},
+  year = 	 {2023},
+  editor = 	 {Ruiz, Francisco and Dy, Jennifer and van de Meent, Jan-Willem},
+  volume = 	 {206},
+  series = 	 {Proceedings of Machine Learning Research},
+  month = 	 {Apr},
+  publisher =    {PMLR},
+  pdf = 	 {https://proceedings.mlr.press/v206/givens23a/givens23a.pdf},
+  url = 	 {https://proceedings.mlr.press/v206/givens23a.html},
+  abstract = 	 {Density Ratio Estimation (DRE) is an important machine learning technique with many downstream applications. We consider the challenge of DRE with missing not at random (MNAR) data. In this setting, we show that using standard DRE methods leads to biased results while our proposal (M-KLIEP), an adaptation of the popular DRE procedure KLIEP, restores consistency. Moreover, we provide finite sample estimation error bounds for M-KLIEP, which demonstrate minimax optimality with respect to both sample size and worst-case missingness. We then adapt an important downstream application of DRE, Neyman-Pearson (NP) classification, to this MNAR setting. Our procedure both controls Type I error and achieves high power, with high probability. Finally, we demonstrate promising empirical performance both synthetic data and real-world data with simulated missingness.}
+}
+
+
+@InProceedings{givens2024conditionaloutcomeequivalencequantile,
+    title={Conditional Outcome Equivalence: A Quantile Alternative to CATE}, 
+    author={Josh Givens and Henry W J Reeve and Song Liu and Katarzyna Reluga},
+    year={2024},
+    booktitle = {Advances in Neural Information Processing Systems},
+    volume = {37},
+    publisher = {Curran Associates, Inc.},
+    eprint={2410.12454},
+    archivePrefix={arXiv},
+    primaryClass={stat.ME},
+    url={https://arxiv.org/abs/2410.12454},
+    abstract={Conditional quantile treatment effect (CQTE) can provide insight into the effect of a treatment beyond
+    the conditional average treatment effect (CATE). This ability to provide information over
+    multiple quantiles of the response makes CQTE especially valuable in cases where the effect of
+    a treatment is not well-modelled by a location shift, even conditionally on the covariates. Nevertheless,
+    the estimation of CQTE is challenging and often depends upon the smoothness of the individual quantiles as a
+    function of the covariates rather than smoothness of the CQTE itself. This is in stark contrast to CATE
+    where it is possible to obtain high-quality estimates which have less dependency upon the smoothness of
+    the nuisance parameters when the CATE itself is smooth. Moreover, relative smoothness of the CQTE lacks the
+    interpretability of smoothness of the CATE making it less clear whether it is a reasonable assumption
+    to make. We combine the desirable properties of CATE and CQTE by considering a new estimand, the conditional
+    quantile comparator (CQC). The CQC not only retains information about the whole treatment distribution, similar to
+    CQTE, but also having more natural examples of smoothness and is able to leverage simplicity in an auxiliary
+    estimand. We provide finite sample bounds on the error of our estimator, demonstrating its ability to exploit
+    simplicity. We validate our theory in numerical simulations which show that our method produces more accurate
+    estimates than baselines. Finally, we apply our methodology to a study on the effect of employment incentives
+    on earnings across different age groups. We see that our method is able to reveal heterogeneity of the effect
+    across different quantiles.}
+}
