@@ -8,8 +8,6 @@ tags:
   - Functional Programming
 ---
 
-# Functional Programming
-
 Functional programming allows you to both use and create functions
 inside other functions. Using function as arguments works exactly the
 same as specifying other arguments however when creating functions
@@ -30,10 +28,6 @@ When creating functions within other functions, we need to be careful as
 some nuances occur. Here is a simple example to illustrate. Suppose we
 want to create a function which returns a function to take numbers to a
 chosen power. We would do this as seen below.
-
-    12*dbinom(5,10,1/12)-66*choose(10,2)*(1/12)^10+12*(1-pbinom(5,10,1/12))
-
-    ## [1] 0.00849348
 
     exp_func_creator<-function(exponent){
       exp_func<-function(x){x^exponent}
@@ -332,7 +326,6 @@ What we see here is that although a function doesn’t have to be given
 all of it’s arguments, if an argument (`y` say) is used within a
 function, the function will only look for that variable within the
 execution environment and will not inherit from any parent environment.
-
 ## Some general rules
 
 -   If at all possible all variables used within a function should be

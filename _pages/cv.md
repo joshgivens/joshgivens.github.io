@@ -29,6 +29,7 @@ Skills
 
 Achievements & Awards
 ======
+* 2024 - Awarded best poster at the 2024 Japan Machine Learning Summer School for my work on Missing Score Matching.
 * 2021 - Received the James Duthie prize awarded to one final year student who
     has shown outstanding ability in Statistics (£100 cash prize.)
 * 2021 - One of six final year MMath students to receive a commendation for my final year project on Hybrid Graphical Models.
