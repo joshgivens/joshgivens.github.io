@@ -11,11 +11,13 @@ redirect_from:
 
 Education
 ======
+* Ph.D in Computational Statistics, University of Bristol, 2021-2025 
 * Mathematics with Placement (MMath) - The University of Bath, 2016-2021, 1st 
-* Ph.D in Computational Statistics, University of Bristol, 2025 (expected)
 
 Work experience
 ======
+* June 2025 - September 2025: Quantitative Research Intern - G-Research
+
 * June 2018 - September 2019: Biostatistics Placement Student - Amgen
   
 Skills
@@ -29,6 +31,7 @@ Skills
 
 Achievements & Awards
 ======
+* 2025 - Best Paper Award at ICML 2025 for my work on "Score Matching with Missing Data".
 * 2024 - Awarded best poster at the 2024 Japan Machine Learning Summer School for my work on Missing Score Matching.
 * 2021 - Received the James Duthie prize awarded to one final year student who
     has shown outstanding ability in Statistics (£100 cash prize.)
