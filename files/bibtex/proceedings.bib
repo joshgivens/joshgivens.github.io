@@ -2,7 +2,7 @@
 @InProceedings{givens2024densityratio,
   title = 	 {Density Ratio Estimation and Neyman Pearson Classification with Missing Data},
   author =       {Givens, Josh and Liu, Song and Reeve, Henry W. J.},
-  booktitle = 	 {Proceedings of The 26th International Conference on Artificial Intelligence and Statistics},
+  booktitle = 	 {The 26th International Conference on Artificial Intelligence and Statistics},
   pages = 	 {8645--8681},
   year = 	 {2023},
   editor = 	 {Ruiz, Francisco and Dy, Jennifer and van de Meent, Jan-Willem},
@@ -49,7 +49,7 @@
 @InProceedings{pmlr-v267-givens25a,
     title =  {Score Matching with Missing Data},
     author =       {Givens, Josh and Liu, Song and Reeve, Henry},
-    booktitle =  {Proceedings of the 42nd International Conference on Machine Learning},
+    booktitle =  {The 42nd International Conference on Machine Learning - [Outstanding Paper Award]},
     pages =  {19523--19561},  year =  {2025},
     editor =  {Singh, Aarti and Fazel, Maryam and Hsu, Daniel and Lacoste-Julien, Simon and Berkenkamp, Felix and Maharaj, Tegan and Wagstaff, Kiri and Zhu, Jerry},
     volume =  {267},
@@ -67,4 +67,31 @@
     sample bounds for our IW approach in finite domain settings and show it to have especially strong performance in small sample 
     lower dimensional cases. Complementing this, we show our variational approach to be strongest in more complex high-dimensional 
     settings which we demonstrate on graphical model estimation tasks on both real and simulated data.}
+}
+
+@InProceedings{givens2026directdoublyrobustestimationconditionalquantilecontrasts,
+    title={Direct Doubly Robust Estimation of Conditional Quantile Contrasts}, 
+    author={Josh Givens and Henry W J Reeve and Song Liu and Katarzyna Reluga},
+    year={2026},
+    booktitle = {The Fourteenth International Conference on Learning Representations},
+    volume = {14},
+    eprint={2601.19666},
+    archivePrefix={arXiv},
+    primaryClass={stat.ME},
+    url={https://www.arxiv.org/abs/2601.19666},
+    abstract={Within heterogeneous treatment effect (HTE) analysis, various estimands have been proposed to capture the
+    effect of a treatment conditional on covariates. Recently, the conditional quantile comparator (CQC) has emerged as
+    a promising estimand, offering quantile-level summaries akin to the conditional quantile treatment effect (CQTE) while
+    preserving some interpretability of the conditional average treatment effect (CATE). It achieves this by summarising 
+    the treated response conditional on both the covariates and the untreated response. Despite these desirable properties,
+    the CQC's current estimation is limited by the need to first estimate the difference in conditional cumulative distribution
+    functions and then invert it. This inversion obscures the CQC estimate, hampering our ability to both model and interpret
+    it. To address this, we propose the first direct estimator of the CQC, allowing for explicit modelling and parameterisation.
+    This explicit parameterisation enables better interpretation of our estimate while also providing a means to constrain and
+    inform the model. We show, both theoretically and empirically, that our estimation error depends directly on the complexity
+    of the CQC itself, improving upon the existing estimation procedure. Furthermore, it retains the desirable double robustness
+    property with respect to nuisance parameter estimation. We further show our method to outperform existing procedures in
+    estimation accuracy across multiple data scenarios while varying sample size and nuisance error. Finally, we apply it to
+    real-world data from an employment scheme, uncovering a reduced range of potential earnings improvement as participant age
+    increases. }
 }
